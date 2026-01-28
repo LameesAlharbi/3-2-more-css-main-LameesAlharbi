@@ -106,6 +106,7 @@ body {
   margin: 0 auto;
   padding: 1rem;
 }
+
 .tagline {
   color: var(--muted);
 }
@@ -129,6 +130,7 @@ body {
   color: white;
   background: linear-gradient(135deg, var(--brand), #22c55e);
 }
+
 .inline-label {
   display: inline-block;
   padding: 0.25rem 0.5rem;
@@ -175,6 +177,7 @@ body {
   align-items: center;
   gap: 0.75rem;
 }
+
 .btn {
   padding: 0.5rem 0.75rem;
   border: none;
